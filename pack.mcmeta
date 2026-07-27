@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": [
+            {
+                "text": "☽ Cosmere Features",
+                "color": "gold"
+            },
+            {
+                "text": "\nv1.0.0",
+                "color": "green"
+            },
+            {
+                "text": " - ",
+                "color": "dark_green"
+            },
+            {
+                "text": "Eclipse37_",
+                "color": "light_purple"
+            }
+        ]
+    }
+}
