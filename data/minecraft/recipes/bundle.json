@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "show_notification": false,
+    "category": "misc",
+    "pattern": [
+        " % ",
+        "# #",
+        " # "
+    ],
+    "key": {
+        "%": {
+            "item": "minecraft:string"
+        },
+        "#": {
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "item": "minecraft:bundle",
+        "count": 1
+    }
+}
