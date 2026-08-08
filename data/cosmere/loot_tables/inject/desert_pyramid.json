@@ -1,0 +1,66 @@
+{
+    "__comment": "This table is injected as its own pool into minecraft:chests/desert_pyramid",
+    "pools": [
+        {
+            "name": "main",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "__comment": "with randomise metal type function, only tin doesn't matter here.",
+                    "name": "hemalurgy:tin_spike",
+                    "functions": [
+                        {
+                            "function": "cosmere:randomise_metaltype"
+                        },
+                        {
+                            "function": "hemalurgy:invest_spike"
+                        },
+                        {
+                            "function": "feruchemy:invest_metalmind"
+                        }
+                    ],
+                    "weight": 16
+                },
+                {
+                    "type": "minecraft:item",
+                    "__comment": "with randomise metal type function, only tin doesn't matter here.",
+                    "name": "feruchemy:tin_ring_metalmind",
+                    "functions": [
+                        {
+                            "function": "cosmere:randomise_metaltype"
+                        },
+                        {
+                            "function": "feruchemy:invest_metalmind"
+                        }
+                    ],
+                    "weight": 15
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cosmere:nicrosil",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "cosmere:atium_nugget",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "min": 3.0,
+                                "max": 7.0,
+                                "type": "minecraft:uniform"
+                            }
+                        }
+                    ],
+                    "weight": 16
+                },
+                {
+                    "type": "minecraft:empty",
+                    "weight": 528
+                }
+            ]
+        }
+    ]
+}
