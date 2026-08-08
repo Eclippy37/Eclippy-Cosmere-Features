@@ -1,0 +1,91 @@
+{
+    "type": "minecraft:generic",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cosmere:nicrosil/feruchemy/iron",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cosmere:nicrosil/feruchemy/steel",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cosmere:nicrosil/feruchemy/tin",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cosmere:nicrosil/feruchemy/pewter",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cosmere:nicrosil/feruchemy/zinc",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cosmere:nicrosil/feruchemy/brass",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cosmere:nicrosil/feruchemy/copper",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cosmere:nicrosil/feruchemy/bronze",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cosmere:nicrosil/feruchemy/cadmium",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cosmere:nicrosil/feruchemy/bendalloy",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cosmere:nicrosil/feruchemy/gold",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cosmere:nicrosil/feruchemy/electrum",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cosmere:nicrosil/feruchemy/aluminum",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cosmere:nicrosil/feruchemy/duralumin",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cosmere:nicrosil/feruchemy/chromium",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cosmere:nicrosil/feruchemy/nicrosil",
+                    "weight": 1
+                }
+            ]
+        }
+    ],
+    "random_sequence": "cosmere:nicrosil/feruchemy"
+}

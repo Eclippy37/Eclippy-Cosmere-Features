@@ -1,0 +1,66 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "feruchemy:nicrosil_ring_metalmind",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{attributeIds:[{attribute:\"attribute.feruchemy.iron\"}],attributeStrengths:[I;1],attuned_player_name:\"Unkeyed\",attuned_player:[I; 1110426649, 507072172, -1409191991, -2062368478]}"
+                        }
+                    ],
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "feruchemy:nicrosil_ring_metalmind",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{attributeIds:[{attribute:\"attribute.feruchemy.iron\"}],attributeStrengths:[I;2],attuned_player_name:\"Unkeyed\",attuned_player:[I; 1110426649, 507072172, -1409191991, -2062368478]}"
+                        }
+                    ],
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "feruchemy:nicrosil_ring_metalmind",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{attributeIds:[{attribute:\"attribute.feruchemy.iron\"}],attributeStrengths:[I;3],attuned_player_name:\"Unkeyed\",attuned_player:[I; 1110426649, 507072172, -1409191991, -2062368478]}"
+                        }
+                    ],
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "feruchemy:nicrosil_ring_metalmind",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{attributeIds:[{attribute:\"attribute.feruchemy.iron\"}],attributeStrengths:[I;4],attuned_player_name:\"Unkeyed\",attuned_player:[I; 1110426649, 507072172, -1409191991, -2062368478]}"
+                        }
+                    ],
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "feruchemy:nicrosil_ring_metalmind",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{attributeIds:[{attribute:\"attribute.feruchemy.iron\"}],attributeStrengths:[I;5],attuned_player_name:\"Unkeyed\",attuned_player:[I; 1110426649, 507072172, -1409191991, -2062368478]}"
+                        }
+                    ],
+                    "weight": 1
+                }
+            ]
+        }
+    ],
+    "random_sequence": "cosmere:nicrosil/feruchemy/iron"
+}
