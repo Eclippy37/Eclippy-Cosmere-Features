@@ -3,9 +3,8 @@
     "show_notification": false,
     "category": "misc",
     "pattern": [
-        " % ",
-        "# #",
-        " # "
+        "%%",
+        "##"
     ],
     "key": {
         "%": {
