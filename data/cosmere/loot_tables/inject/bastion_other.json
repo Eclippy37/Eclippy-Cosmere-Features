@@ -1,5 +1,5 @@
 {
-    "__comment": "This table is injected as its own pool into minecraft:chests/woodland_mansion",
+    "__comment": "This table is injected as its own pool into minecraft:chests/bastion_other",
     "pools": [
         {
             "name": "main",
